@@ -1,0 +1,1 @@
+C:\Users\USER\Documents\Izedonmi\a.izedonmiCOS101\week-4\week-4_projects\project_2\target\debug\project_2.exe: C:\Users\USER\Documents\Izedonmi\a.izedonmiCOS101\week-4\week-4_projects\project_2\src\main.rs
