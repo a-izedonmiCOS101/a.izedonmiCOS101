@@ -1,0 +1,18 @@
+LAGER
+    33 Export
+    Desperados
+    Goldberg
+    Gulder
+    Heineken
+    Star
+
+    STOUT
+    Legend
+    Turbo King
+    Williams
+
+    ALL THINGS MALT
+    Maltina
+    Amstel Malta
+    Malta Gold 
+    Fayrouz
